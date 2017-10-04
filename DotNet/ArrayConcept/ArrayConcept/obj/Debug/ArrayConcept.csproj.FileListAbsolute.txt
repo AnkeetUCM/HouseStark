@@ -1,0 +1,6 @@
+U:\Git\Repo1\DotNet\ArrayConcept\ArrayConcept\bin\Debug\ArrayConcept.exe.config
+U:\Git\Repo1\DotNet\ArrayConcept\ArrayConcept\bin\Debug\ArrayConcept.exe
+U:\Git\Repo1\DotNet\ArrayConcept\ArrayConcept\bin\Debug\ArrayConcept.pdb
+U:\Git\Repo1\DotNet\ArrayConcept\ArrayConcept\obj\Debug\ArrayConcept.csprojResolveAssemblyReference.cache
+U:\Git\Repo1\DotNet\ArrayConcept\ArrayConcept\obj\Debug\ArrayConcept.exe
+U:\Git\Repo1\DotNet\ArrayConcept\ArrayConcept\obj\Debug\ArrayConcept.pdb
